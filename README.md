@@ -90,7 +90,7 @@ o verificare l'identità di una persona a partire da una o più immagini che la 
 # Fonti e Studi utili 
 - [Image Forensics Contraffazione Digitale e Identificazione della Camera i Acquisizione](https://www.dmi.unict.it/~battiato/download/IISFA%202009%20004635290da42dce59000000.pdf)
 - [IISFA Memberbook 2011](https://www.dmi.unict.it/~battiato/download/IISFAMemberbook2011.pdf) 
-
+- [Linkedin - Forensics Imagery](https://www.linkedin.com/posts/scorzaosint01_forensics-imaginery-manucar-activity-6944889688990089216-aD2f?utm_source=share&utm_medium=member_desktop)
 
 
 
