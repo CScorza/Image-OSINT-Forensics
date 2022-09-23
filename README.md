@@ -25,8 +25,9 @@
 ![2022-09-23 02_29_37-Face Detection Explained_ State-of-the-Art Methods and Best Tools _ by Sciforce ](https://user-images.githubusercontent.com/98583912/191873265-de0d049f-16aa-4349-991f-2a8e054f702c.png)
 
 ```
-Il riconoscimento facciale (in inglese face detection) è una tecnica di intelligenza artificiale, 
-utilizzata in biometria per identificare o verificare l'identità di una persona a partire da una o più immagini che la ritraggono
+Il riconoscimento facciale (in inglese face detection) 
+è una tecnica di intelligenza artificiale, utilizzata in biometria per identificare 
+o verificare l'identità di una persona a partire da una o più immagini che la ritraggono
 ```
 - [Wikipedia](https://it.wikipedia.org/wiki/Riconoscimento_facciale)
 
