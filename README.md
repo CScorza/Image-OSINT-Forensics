@@ -1,4 +1,4 @@
-# Image OSINT/Forensics
+I# Image OSINT/Forensics
 # Ricerca e Analisi delle Immagini 
 
 ![Reverse-Image-Search-Engines png cf](https://user-images.githubusercontent.com/98583912/191872805-dafa7aa6-63dc-4542-a3ed-695ef1b64a0e.jpg)
@@ -26,10 +26,10 @@
 
 ```
 Il riconoscimento facciale (in inglese face detection) 
-è una tecnica di intelligenza artificiale, utilizzata in biometria per identificare 
-o verificare l'identità di una persona a partire da una o più immagini che la ritraggono
-```
+è una tecnica di riconoscimento, utilizzando l'intelligenza artificiale, 
+incentrata su dati biometrici per identificare o verificare l'identità di una persona
 - [Wikipedia](https://it.wikipedia.org/wiki/Riconoscimento_facciale)
+```
 
 ## Face Detection
 - [Pictriev - Searching faces on the Web](http://www.pictriev.com/)
