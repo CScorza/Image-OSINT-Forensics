@@ -66,6 +66,28 @@ incentrata su dati biometrici per identificare o verificare l'identità di una p
 - [Camera Trace](http://www.cameratrace.com/trace)
 - [Stolen Camera Finder](https://www.stolencamerafinder.com/)
 
+## Calcolo del Hash
+![QAApO](https://user-images.githubusercontent.com/98583912/194880806-7c8b9a6c-c9fb-4df2-9904-172bbfa74a04.png)
+
+```
+La firma digitale è, sempre più, 
+uno strumento fondamentale per dare valore legale a un documento in formato digitale. 
+Uno strumento che, per funzionare in maniera corretta, ha bisogno di quello che viene chiamato "Codice di Hash".
+Per questa caratteristica, le funzioni crittografiche di hash trovano ampio utilizzo negli ambiti di sicurezza informatica. 
+Ad esempio:
+Firma digitale;
+Verifica password;
+Identificativo di file o di dati;
+Protezione degli errori.
+```
+## Software 
+- [Hashgen](https://www.hashgen.it/)
+- [Hashtab](https://hashtab.en.softonic.com/)
+
+## Online 
+- [GitHub - sha256](https://emn178.github.io/online-tools/sha256.html)
+- [File Format - Hash](https://www.fileformat.info/tool/hash.htm)
+
 ## Strumenti Desktop Forensi per l'Analisi, Restauro delle Immagini e QR/Barcode
 
 ### Gratis
