@@ -146,6 +146,9 @@ informazioni destinate a essere lette tramite un apposito lettore ottico o anche
 
 
 # Fonti e Studi utili 
+### Lavori propri
 - [Image Forensics Contraffazione Digitale e Identificazione della Camera i Acquisizione](https://www.dmi.unict.it/~battiato/download/IISFA%202009%20004635290da42dce59000000.pdf)
+- [Come fare a capire se una foto è vera o falsa in funzione dell’ora di scatto. .pdf](https://github.com/CScorza/Image-OSINT-Forensics/files/9899638/Come.fare.a.capire.se.una.foto.e.vera.o.falsa.in.funzione.dell.ora.di.scatto.pdf)
+### Altre pubblicazioni
 - [IISFA Memberbook 2011](https://www.dmi.unict.it/~battiato/download/IISFAMemberbook2011.pdf) 
 - [Linkedin - Forensics Imagery](https://www.linkedin.com/posts/scorzaosint01_forensics-imaginery-manucar-activity-6944889688990089216-aD2f?utm_source=share&utm_medium=member_desktop)
