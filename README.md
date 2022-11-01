@@ -5,25 +5,25 @@
 
 ![Reverse-Image-Search-Engines png cf](https://user-images.githubusercontent.com/98583912/191872805-dafa7aa6-63dc-4542-a3ed-695ef1b64a0e.jpg)
 
+# Indice
+- [1 Ricerca per immagini](https://github.com/CScorza/Image-OSINT-Forensics/edit/main/README.md#1---ricerca-per-immagini)
+- [2 Ricerca Volti](https://github.com/CScorza/Image-OSINT-Forensics/edit/main/README.md#2---ricerca-volti)
+- [3 Ricerca Oggetti](https://github.com/CScorza/Image-OSINT-Forensics/edit/main/README.md#3---ricerca-oggetti)
+- [4 Analisi Forense](https://github.com/CScorza/Image-OSINT-Forensics/edit/main/README.md#4--analisi-forense)
+- [5 Strumenti Desktop Forensi per l'Analisi, Restauro delle Immagini e QR/Barcode](https://github.com/CScorza/Image-OSINT-Forensics/edit/main/README.md#5---strumenti-desktop-forensi-per-lanalisi-restauro-delle-immagini-e-qrbarcode)
+- [6 Image Forensics - Applicazioni per Smartphone](https://github.com/CScorza/Image-OSINT-Forensics/edit/main/README.md#6---image-forensics---applicazioni-per-smartphone)
+- [7 Fonti e Studi utili](https://github.com/CScorza/Image-OSINT-Forensics/edit/main/README.md#7---fonti-e-studi-utili)
 
-## Ricerca per immagini
-- [Bing - Ricerca visiva](https://www.bing.com/visualsearch?sklsharecode=4BHJRI&FORM=CLMRDR)
-- [Google Immagini](https://images.google.com/)
-- [Yandex Immagini](https://yandex.com/images/)
-- [Zapmeta](https://www.zapmeta.com/)
-- [Baidu](http://image.baidu.com/)
-- [OsintCombine - Reverse Image Analyzer](https://www.osintcombine.com/reverse-image-analyzer)
-- [Flickr](https://secure.flickr.com/)
-- [ImageIdentify](https://www.imageidentify.com/)
-- [Karmadecay - Reverse image search of Reddit.com](http://karmadecay.com/)
-- [TinEye - Reverse Image Search](https://tineye.com/)
-- [Yahoo - Images Search](https://images.search.yahoo.com/)
-- [Geolocation Estimation - Image](https://labs.tib.eu/geoestimation/)
+## 1 - Ricerca per immagini
+|[Bing - Ricerca visiva](https://www.bing.com/visualsearch?sklsharecode=4BHJRI&FORM=CLMRDR)|[Google Immagini](https://images.google.com/)|[Yandex Immagini](https://yandex.com/images/)|[Zapmeta](https://www.zapmeta.com/)|
+| :--- | :--- | :--- | :--- | 
+|[Baidu](http://image.baidu.com/)|[OsintCombine - Reverse Image Analyzer](https://www.osintcombine.com/reverse-image-analyzer)|[Flickr](https://secure.flickr.com/)|[ImageIdentify](https://www.imageidentify.com/)|
+|[Karmadecay - Reverse image search of Reddit.com](http://karmadecay.com/)|[TinEye - Reverse Image Search](https://tineye.com/)|[Yahoo - Images Search](https://images.search.yahoo.com/)|[Geolocation Estimation - Image](https://labs.tib.eu/geoestimation/)|
 
 ## Estensioni Ricerca Immagini
 - [GitHub - EstensioniChromeOSINT ricerca immagini](https://github.com/CScorza/EstensioniChromeOSINT#ricerca-immagini)
 
-# Ricerca Volti
+# 2 - Ricerca Volti
 ![2022-09-23 02_29_37-Face Detection Explained_ State-of-the-Art Methods and Best Tools _ by Sciforce ](https://user-images.githubusercontent.com/98583912/191873265-de0d049f-16aa-4349-991f-2a8e054f702c.png)
 
 ```
@@ -50,19 +50,20 @@ incentrata su dati biometrici per identificare o verificare l'identità di una p
 - [Dalchecco.it - Tsurugi - Computer Vision](https://www.dalchecco.it/tsurugi-linux-lab-2019-1-download/)
    - [Iso Tsurugi](https://tsurugi-linux.org/downloads.php)
 
-# Analisi Forense
+# 3 - Ricerca Oggetti
+|Auto|Armi|Piante|Elettrico|
+| :--- | :--- | :--- | :--- | 
+|[CarNet](https://carnet.ai/)|[Enciclopedia delle armi](http://www.earmi.it/default.html)|[Pl@ntNet identify](https://identify.plantnet.org/it)|[World plugs - IEC](https://www.iec.ch/world-plugs)|
+||||[Sistema di ricerca elettronica dei marchi (TESS)](https://tmsearch.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk)|
+
+# 4- Analisi Forense
 ## Metadati e Foto Fake
 ![2022-09-23 03_03_49-4 Free Fake Image Detector - Analyze Photoshopped Photos](https://user-images.githubusercontent.com/98583912/191875696-97fa0dcc-3f66-4af9-be43-3a65dc4096ff.jpg)
 
-- [Imageedited - Is Your Image Edited?](http://imageedited.com/)
-- [FotoForensics](https://fotoforensics.com/)
-- [Metadata2go](https://www.metadata2go.com/)
-- [Getghiro](http://www.getghiro.org/)
-- [Adversarial.io – Fighting mass image recognition](https://adversarial.io/)
-- [Exif Jpeg header manipulation tool](https://www.sentex.ca/~mwandel/jhead/)
-- [Fake news debunker by InVID & WeVerify](https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe?hl=it)
-- [GitHub - EstensioniChromeOSINT - Metadati](https://github.com/CScorza/EstensioniChromeOSINT#metadati)
-- [ExtractMetadata.com](https://www.extractmetadata.com/)
+|[Imageedited - Is Your Image Edited?](http://imageedited.com/)|[FotoForensics](https://fotoforensics.com/)|[Metadata2go](https://www.metadata2go.com/)|[Getghiro](http://www.getghiro.org/)|
+| :--- | :---: | :--- | :--- | 
+|[Adversarial.io – Fighting mass image recognition](https://adversarial.io/)|[Exif Jpeg header manipulation tool](https://www.sentex.ca/~mwandel/jhead/)|[Fake news debunker by InVID & WeVerify](https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe?hl=it)|[GitHub - EstensioniChromeOSINT - Metadati](https://github.com/CScorza/EstensioniChromeOSINT#metadati)|
+|[ExtractMetadata.com](https://www.extractmetadata.com/)||||
 
 ### Ricerca seriale Camera dalle Foto
 - [Camera Trace](http://www.cameratrace.com/trace)
@@ -90,7 +91,7 @@ Protezione degli errori.
 - [GitHub - sha256](https://emn178.github.io/online-tools/sha256.html)
 - [File Format - Hash](https://www.fileformat.info/tool/hash.htm)
 
-## Strumenti Desktop Forensi per l'Analisi, Restauro delle Immagini e QR/Barcode
+# 5 - Strumenti Desktop Forensi per l'Analisi, Restauro delle Immagini e QR/Barcode
 
 ### Gratis
 ![photome-8686-6](https://user-images.githubusercontent.com/98583912/191875217-598f19b6-f93c-4a1a-ae56-4cc92aa77d80.jpg)
@@ -105,6 +106,12 @@ Protezione degli errori.
 - [JPEGsnoop](https://jpegsnoop.it.uptodown.com/windows)
 - [Media Info](https://mediaarea.net/it/MediaInfo)
 - [PhotoMe](https://www.photome.de/home_en.html)
+
+### Pagamento
+![clip_image0025_thumb (1)](https://user-images.githubusercontent.com/98583912/191876099-16fb7e99-f888-4cd4-b306-cca7a776b03c.jpg)
+
+- [Photoshop](https://www.adobe.com/it/creativecloud/photography.html?gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-ud2gBwdDHQy-paRgBI71tJcaAvkVEALw_wcB&mv=search&mv=search&sdid=LZ32SYVR&ef_id=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-u[d2gBwdDHQy-p[aRgBI71tJcaAvkVEALw_wcB:G:s&s_kwcid=AL!3085!3!340641313435!e!!g!!photoshop!1457478956!59242745680)
+- [AmpedFive](https://ampedsoftware.com/it/)
 
 ### GITHUB
 - [Face_Recognition](https://github.com/ageitgey/face_recognition)
@@ -131,13 +138,7 @@ informazioni destinate a essere lette tramite un apposito lettore ottico o anche
 - [Time and Date](https://www.timeanddate.com/)
 - [Sun Calc](https://www.suncalc.org/)
 
-### Pagamento
-![clip_image0025_thumb (1)](https://user-images.githubusercontent.com/98583912/191876099-16fb7e99-f888-4cd4-b306-cca7a776b03c.jpg)
-
-- [Photoshop](https://www.adobe.com/it/creativecloud/photography.html?gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-ud2gBwdDHQy-paRgBI71tJcaAvkVEALw_wcB&mv=search&mv=search&sdid=LZ32SYVR&ef_id=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-u[d2gBwdDHQy-p[aRgBI71tJcaAvkVEALw_wcB:G:s&s_kwcid=AL!3085!3!340641313435!e!!g!!photoshop!1457478956!59242745680)
-- [AmpedFive](https://ampedsoftware.com/it/)
-
-## Image Forensics - Smartphone
+# 6 - Image Forensics - Applicazioni per Smartphone
 - [FAS](https://play.google.com/store/apps/details?id=com.fas.app&hl=it&gl=US) - Forensics Acquisition of Screenshot
 - [IAFace](https://play.google.com/store/apps/details?id=tk.smh17.iaface&hl=it&gl=US)- [Photo Sherlock](https://play.google.com/store/apps/details?id=hippeis.com.photochecker&hl=it&gl=US)
 - [ImageMeter](https://play.google.com/store/apps/details?id=de.dirkfarin.imagemeter&hl=it&gl=US)
@@ -145,7 +146,7 @@ informazioni destinate a essere lette tramite un apposito lettore ottico o anche
 - [Lettore QR](https://play.google.com/store/apps/details?id=com.teacapps.barcodescanner&hl=it&gl=US)
 
 
-# Fonti e Studi utili 
+# 7 - Fonti e Studi utili 
 ### Lavori propri
 - [Linkedin - Forensics Imagery](https://www.linkedin.com/posts/scorzaosint01_forensics-imaginery-manucar-activity-6944889688990089216-aD2f?utm_source=share&utm_medium=member_desktop)
 - [Linkedin - IL SOLE NEMICO DELLE FOTO FAKE](https://www.linkedin.com/posts/scorzaosint01_analisi-osint-image-il-sole-nemico-delle-activity-6992778053760266240-1UGg?utm_source=share&utm_medium=member_desktop)
