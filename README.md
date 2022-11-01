@@ -1,6 +1,5 @@
 ![Titolo](https://user-images.githubusercontent.com/98583912/199344212-b98b91eb-35ac-40dc-9a33-b57ff3a9b86b.gif)
 
-![Reverse-Image-Search-Engines png cf](https://user-images.githubusercontent.com/98583912/191872805-dafa7aa6-63dc-4542-a3ed-695ef1b64a0e.jpg)
 
 # Indice
 - [1 Ricerca per immagini](https://github.com/CScorza/Image-OSINT-Forensics/edit/main/README.md#1---ricerca-per-immagini)
@@ -10,6 +9,8 @@
 - [5 Strumenti Desktop Forensi per l'Analisi, Restauro delle Immagini e QR/Barcode](https://github.com/CScorza/Image-OSINT-Forensics/edit/main/README.md#5---strumenti-desktop-forensi-per-lanalisi-restauro-delle-immagini-e-qrbarcode)
 - [6 Image Forensics - Applicazioni per Smartphone](https://github.com/CScorza/Image-OSINT-Forensics/edit/main/README.md#6---image-forensics---applicazioni-per-smartphone)
 - [7 Fonti e Studi utili](https://github.com/CScorza/Image-OSINT-Forensics/edit/main/README.md#7---fonti-e-studi-utili)
+
+![Reverse-Image-Search-Engines png cf](https://user-images.githubusercontent.com/98583912/191872805-dafa7aa6-63dc-4542-a3ed-695ef1b64a0e.jpg)
 
 ## 1 - Ricerca per immagini
 |[Bing - Ricerca visiva](https://www.bing.com/visualsearch?sklsharecode=4BHJRI&FORM=CLMRDR)|[Google Immagini](https://images.google.com/)|[Yandex Immagini](https://yandex.com/images/)|[Zapmeta](https://www.zapmeta.com/)|
