@@ -55,7 +55,7 @@ incentrata su dati biometrici per identificare o verificare l'identità di una p
 
 
 
-# 4- Analisi Forense
+# 4 - Analisi Forense
 ## Metadati e Foto Fake
 ![2022-09-23 03_03_49-4 Free Fake Image Detector - Analyze Photoshopped Photos](https://user-images.githubusercontent.com/98583912/191875696-97fa0dcc-3f66-4af9-be43-3a65dc4096ff.jpg)
 
@@ -90,7 +90,7 @@ Protezione degli errori.
 |[GitHub - sha256](https://emn178.github.io/online-tools/sha256.html)|[File Format - Hash](https://www.fileformat.info/tool/hash.htm)|
 | :--- | :--- |
 
-# 5 - Strumenti Desktop Forensi per l'Analisi, Restauro delle Immagini e QR/Barcode
+# 5 - Strumenti Desktop Forensi di Analisi, Restauro delle Immagini e QR/Barcode
 
 ### Software Gratis
 ![photome-8686-6](https://user-images.githubusercontent.com/98583912/191875217-598f19b6-f93c-4a1a-ae56-4cc92aa77d80.jpg)
@@ -113,8 +113,8 @@ Protezione degli errori.
 ### Pagamento
 ![clip_image0025_thumb (1)](https://user-images.githubusercontent.com/98583912/191876099-16fb7e99-f888-4cd4-b306-cca7a776b03c.jpg)
 
-- [Photoshop](https://www.adobe.com/it/creativecloud/photography.html?gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-ud2gBwdDHQy-paRgBI71tJcaAvkVEALw_wcB&mv=search&mv=search&sdid=LZ32SYVR&ef_id=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-u[d2gBwdDHQy-p[aRgBI71tJcaAvkVEALw_wcB:G:s&s_kwcid=AL!3085!3!340641313435!e!!g!!photoshop!1457478956!59242745680)
-- [AmpedFive](https://ampedsoftware.com/it/)
+|[Photoshop](https://www.adobe.com/it/creativecloud/photography.html?gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-ud2gBwdDHQy-paRgBI71tJcaAvkVEALw_wcB&mv=search&mv=search&sdid=LZ32SYVR&ef_id=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-u[d2gBwdDHQy-p[aRgBI71tJcaAvkVEALw_wcB:G:s&s_kwcid=AL!3085!3!340641313435!e!!g!!photoshop!1457478956!59242745680)|[AmpedFive](https://ampedsoftware.com/it/)|
+| :--- | :--- |
 
 ***GITHUB***
 - [Face_Recognition](https://github.com/ageitgey/face_recognition)
