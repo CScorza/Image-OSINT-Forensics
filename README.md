@@ -35,6 +35,7 @@ incentrata su dati biometrici per identificare o verificare l'identità di una p
 ## Face Detection
 |[Pictriev - Searching faces on the Web](http://www.pictriev.com/)|[Star by Face](https://starbyface.com/)|[PinEyes](https://pimeyes.com/en)|
 | :--- | :--- | :--- |
+|[Search4faces](https://search4faces.com/)|[VK.WATCH](https://vk.watch/)|
 
 ## Face Recognition
 |[Betaface](https://betaface.com/demo_old.html)|[Amazon Rekognition](https://eu-central-1.console.aws.amazon.com/rekognition/home?region=eu-central-1#/)|[Diffchecker  Compare Images](https://www.diffchecker.com/image-diff/)|[Face Comparing](https://www.faceplusplus.com/face-comparing/)|
@@ -47,12 +48,11 @@ incentrata su dati biometrici per identificare o verificare l'identità di una p
    - [Iso Tsurugi](https://tsurugi-linux.org/downloads.php)
 
 # 3 - Ricerca Oggetti
-|Auto|Armi|Piante|Elettrico|
-| :--- | :--- | :--- | :--- | 
-|[CarNet](https://carnet.ai/)|[Enciclopedia delle armi](http://www.earmi.it/default.html)|[Pl@ntNet identify](https://identify.plantnet.org/it)|[World plugs - IEC](https://www.iec.ch/world-plugs)|
-||||[Sistema di ricerca elettronica dei marchi (TESS)](https://tmsearch.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk)|
-![ricambi-auto-di-carrozzeria](https://user-images.githubusercontent.com/98583912/199337438-f141b7e1-91e3-4b99-972c-576787c368a3.jpg)|![Immagine1](https://user-images.githubusercontent.com/98583912/199338577-a015eeb0-104f-40ed-932c-79ae732c2ca8.gif)|![Immagine3](https://user-images.githubusercontent.com/98583912/199338834-6a7ad501-2fff-49b1-a1ef-9b6f8e286a82.gif)|![Immagine5](https://user-images.githubusercontent.com/98583912/199339627-2d31f51b-cf63-4847-ac46-04f8fb1e4f40.jpg)|
-
+|Animali|Auto|Armi|Piante|Elettrico|
+| :--- | :--- | :--- | :--- | :--- | 
+|[Identificazione Uccelli](https://merlin.allaboutbirds.org/)|[CarNet](https://carnet.ai/)|[Enciclopedia delle armi](http://www.earmi.it/default.html)|[Pl@ntNet identify](https://identify.plantnet.org/it)|[World plugs - IEC](https://www.iec.ch/world-plugs)|
+|[Identify Dog Breeds Pro Android App](https://github.com/j05t/identify-dog-breeds-pro)||||[Sistema di ricerca elettronica dei marchi (TESS)](https://tmsearch.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk)|
+|![iStock-936761594-min-880x660](https://user-images.githubusercontent.com/98583912/205460396-ab4cf931-a7ca-40b5-8d16-9a8ba766e481.jpg)|![ricambi-auto-di-carrozzeria](https://user-images.githubusercontent.com/98583912/199337438-f141b7e1-91e3-4b99-972c-576787c368a3.jpg)|![Immagine1](https://user-images.githubusercontent.com/98583912/199338577-a015eeb0-104f-40ed-932c-79ae732c2ca8.gif)|![Immagine3](https://user-images.githubusercontent.com/98583912/199338834-6a7ad501-2fff-49b1-a1ef-9b6f8e286a82.gif)|![Immagine5](https://user-images.githubusercontent.com/98583912/199339627-2d31f51b-cf63-4847-ac46-04f8fb1e4f40.jpg)|
 
 
 # 4 - Analisi Forense
@@ -104,6 +104,19 @@ Protezione degli errori.
 |[Media.io](https://letsenhance.io/)|Rimuove oggetti luminosi/di grandi dimensioni dalle immagini|
 |[Replicate](https://replicate.com/tencentarc/gfpgan)|Ripristina foto di volti sfocate/sfocate/danneggiate (potenzialmente altre immagini)|
 |[TheinPaint](https://theinpaint.com/)|Rimuove gli oggetti dalle immagini|
+|[fSpy](https://fspy.io/)|calcola la lunghezza focale, l'orientamento e la posizione approssimativi della telecamera nello spazio 3D|
+|[ImageEnlarger.com](https://www.imageenlarger.com/)|Questo strumento ti consente di eseguire l'upscaling di piccole immagini senza perdere qualità o introdurre distorsioni|
+
+***GITHUB - OPEN SOURCE***
+|Strumenti Immagini|AntiPixel|
+| :--- | :--- |   
+|![image-enhancement-768x429](https://user-images.githubusercontent.com/98583912/205461149-140d450c-6d7d-42c3-8f3b-b01a1c383cbb.jpg)|![Recovering_prototype_latest](https://user-images.githubusercontent.com/98583912/205461014-1532536b-3669-4708-a5ea-dda9a79a33be.png)|
+|[GuidoBartoli - sherloq](https://github.com/GuidoBartoli/sherloq)|[Beurtschipper - Depix](https://github.com/beurtschipper/Depix)|
+|Un set di strumenti forensi per immagini open source|Depix è uno strumento per recuperare le password da schermate pixelizzate|
+|[Redaelli - Imago-Forensics](https://github.com/redaelli/imago-forensics)|[Bishopfox - Unredacter](https://github.com/bishopfox/unredacter)|
+|Strumento Digital Forense per l'estrazione di dati dalle Immagini|Rompere una immagine pixelata|
+|[MKLab-ITI - image-forensics](https://github.com/MKLab-ITI/image-forensics)||
+|framework integrato per l'analisi forense delle immagini||
 
 ***Software***
 |[GIMP - GNU IMAGE MANIPULATION PROGRAM](https://www.gimp.org/)|[ImageJ](https://imagej.net/software/fiji/downloads)|[JPEGsnoop](https://jpegsnoop.it.uptodown.com/windows)|[Media Info](https://mediaarea.net/it/MediaInfo)|[PhotoMe](https://www.photome.de/home_en.html)|
@@ -113,8 +126,8 @@ Protezione degli errori.
 ### Pagamento
 ![clip_image0025_thumb (1)](https://user-images.githubusercontent.com/98583912/191876099-16fb7e99-f888-4cd4-b306-cca7a776b03c.jpg)
 
-|[Photoshop](https://www.adobe.com/it/creativecloud/photography.html?gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-ud2gBwdDHQy-paRgBI71tJcaAvkVEALw_wcB&mv=search&mv=search&sdid=LZ32SYVR&ef_id=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-u[d2gBwdDHQy-p[aRgBI71tJcaAvkVEALw_wcB:G:s&s_kwcid=AL!3085!3!340641313435!e!!g!!photoshop!1457478956!59242745680)|[AmpedFive](https://ampedsoftware.com/it/)|
-| :--- | :--- |
+|[Photoshop](https://www.adobe.com/it/creativecloud/photography.html?gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-ud2gBwdDHQy-paRgBI71tJcaAvkVEALw_wcB&mv=search&mv=search&sdid=LZ32SYVR&ef_id=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-u[d2gBwdDHQy-p[aRgBI71tJcaAvkVEALw_wcB:G:s&s_kwcid=AL!3085!3!340641313435!e!!g!!photoshop!1457478956!59242745680)|[AmpedFive](https://ampedsoftware.com/it/)|[MOBILedit - Camera-Ballistics](https://www.mobiledit.com/camera-ballistics)|
+| :--- | :--- | :--- |
 
 ***GITHUB***
 - [Face_Recognition](https://github.com/ageitgey/face_recognition)
@@ -154,5 +167,6 @@ informazioni destinate a essere lette tramite un apposito lettore ottico o anche
 - [Linkedin - IL SOLE NEMICO DELLE FOTO FAKE](https://www.linkedin.com/posts/scorzaosint01_analisi-osint-image-il-sole-nemico-delle-activity-6992778053760266240-1UGg?utm_source=share&utm_medium=member_desktop)
 
 ***Altre pubblicazioni***
-- [IISFA Memberbook 2011](https://www.dmi.unict.it/~battiato/download/IISFAMemberbook2011.pdf) 
-- [Image Forensics Contraffazione Digitale e Identificazione della Camera i Acquisizione](https://www.dmi.unict.it/~battiato/download/IISFA%202009%20004635290da42dce59000000.pdf)
+
+|[IISFA Memberbook 2011](https://www.dmi.unict.it/~battiato/download/IISFAMemberbook2011.pdf)|[Image Forensics Contraffazione Digitale e Identificazione della Camera i Acquisizione](https://www.dmi.unict.it/~battiato/download/IISFA%202009%20004635290da42dce59000000.pdf)|[Lab4Int - DRONE vs COMPUTER VISION](https://www.lab4int.org/drone-vs-computer-vision/)|
+| :---: | :---: | :---: | 
