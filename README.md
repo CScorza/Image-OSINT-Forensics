@@ -74,7 +74,7 @@ incentrata su dati biometrici per identificare o verificare l'identità di una p
 ![QAApO](https://user-images.githubusercontent.com/98583912/194880806-7c8b9a6c-c9fb-4df2-9904-172bbfa74a04.png)
 
 ```
-La firma digitale è, sempre più, 
+La firma digitale è sempre più 
 uno strumento fondamentale per dare valore legale a un documento in formato digitale. 
 Uno strumento che, per funzionare in maniera corretta, ha bisogno di quello che viene chiamato "Codice di Hash".
 Per questa caratteristica, le funzioni crittografiche di hash trovano ampio utilizzo negli ambiti di sicurezza informatica. 
@@ -87,6 +87,7 @@ Protezione degli errori.
 ## Software 
 - [Hashgen](https://www.hashgen.it/)
 - [Hashtab](https://hashtab.en.softonic.com/)
+- [Hashmyfiles](https://www.nirsoft.net/utils/hash_my_files.html)
 
 ## Online 
 |[GitHub - sha256](https://emn178.github.io/online-tools/sha256.html)|[File Format - Hash](https://www.fileformat.info/tool/hash.htm)|
@@ -108,6 +109,7 @@ Protezione degli errori.
 |[TheinPaint](https://theinpaint.com/)|Rimuove gli oggetti dalle immagini|
 |[fSpy](https://fspy.io/)|calcola la lunghezza focale, l'orientamento e la posizione approssimativi della telecamera nello spazio 3D|
 |[ImageEnlarger.com](https://www.imageenlarger.com/)|Questo strumento ti consente di eseguire l'upscaling di piccole immagini senza perdere qualità o introdurre distorsioni|
+|[Upscaler](https://flathub.org/apps/details/io.gitlab.theevilskeleton.Upscaler)|Strumento per Linux che permette di migliorare la risoluzione|
 
 ***GITHUB - OPEN SOURCE***
 |Strumenti Immagini|AntiPixel|
