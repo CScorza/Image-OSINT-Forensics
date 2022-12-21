@@ -87,7 +87,7 @@ Protezione degli errori.
 - [Hashgen](https://www.hashgen.it/)
 - [Hashtab](https://hashtab.en.softonic.com/)
 - [Hashmyfiles](https://www.nirsoft.net/utils/hash_my_files.html)
-- 
+
 ## Online 
 |[GitHub - sha256](https://emn178.github.io/online-tools/sha256.html)|[File Format - Hash](https://www.fileformat.info/tool/hash.htm)|
 | :--- | :--- |
