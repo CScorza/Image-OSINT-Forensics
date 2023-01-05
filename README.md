@@ -1,6 +1,4 @@
-Test
-![Titolo](https://user-images.githubusercontent.com/98583912/199344212-b98b91eb-35ac-40dc-9a33-b57ff3a9b86b.gif)
-
+![Titolo](https://user-images.githubusercontent.com/98583912/210838536-9ac169ad-5809-4c3f-bd0a-03e908aa0af5.gif)
 
 # Indice
 - [1 Ricerca per immagini](https://github.com/CScorza/Image-OSINT-Forensics#1---ricerca-per-immagini)
