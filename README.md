@@ -16,6 +16,7 @@
 | :--- | :--- | :--- | :--- | 
 |[Baidu](http://image.baidu.com/)|[OsintCombine - Reverse Image Analyzer](https://www.osintcombine.com/reverse-image-analyzer)|[Flickr](https://secure.flickr.com/)|[ImageIdentify](https://www.imageidentify.com/)|
 |[Karmadecay - Reverse image search of Reddit.com](http://karmadecay.com/)|[TinEye - Reverse Image Search](https://tineye.com/)|[Yahoo - Images Search](https://images.search.yahoo.com/)|[Geolocation Estimation - Image](https://labs.tib.eu/geoestimation/)|
+|[**Reverse Image Search**](https://smallseotools.com/reverse-image-search/)|[**berify**](https://berify.com/)|[**DupliChecker - Reverse Image Search**](https://www.duplichecker.com/reverse-image-search.php)|[]()|
 
 ## Estensioni Ricerca Immagini
 - [GitHub - EstensioniChromeOSINT ricerca immagini](https://github.com/CScorza/EstensioniChromeOSINT#ricerca-immagini)
@@ -47,12 +48,12 @@ incentrata su dati biometrici per identificare o verificare l'identità di una p
    - [Iso Tsurugi](https://tsurugi-linux.org/downloads.php)
 
 # 3 - Ricerca Oggetti
-|**MARCHI**|**Animali**|**Auto**|**Armi**|**Piante**|**Elettrico**|
-| :---: | :---: | :---: | :---: | :---: | :---: | 
-|[US Sistema di ricerca elettronica dei marchi (TESS)](https://tmsearch.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk)|[Identificazione Uccelli](https://merlin.allaboutbirds.org/)|[CarNet](https://carnet.ai/)|[Enciclopedia delle armi](http://www.earmi.it/default.html)|[Pl@ntNet identify](https://identify.plantnet.org/it)|[World plugs - IEC](https://www.iec.ch/world-plugs)|
-|[UE - eSearch](https://euipo.europa.eu/eSearch/)|[Identify Dog Breeds Pro Android App](https://github.com/j05t/identify-dog-breeds-pro)||||[Sistema di ricerca elettronica dei marchi (TESS)](https://tmsearch.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk)|
-|[UE - TMview](https://www.tmdn.org/tmview/#/tmview)||||||
-|![cosa-e-un-marchio-3](https://user-images.githubusercontent.com/98583912/206896278-dc0f5cf0-72c4-4bdc-94e7-7ff9310148ab.jpg)|![iStock-936761594-min-880x660](https://user-images.githubusercontent.com/98583912/205460396-ab4cf931-a7ca-40b5-8d16-9a8ba766e481.jpg)|![ricambi-auto-di-carrozzeria](https://user-images.githubusercontent.com/98583912/199337438-f141b7e1-91e3-4b99-972c-576787c368a3.jpg)|![Immagine1](https://user-images.githubusercontent.com/98583912/199338577-a015eeb0-104f-40ed-932c-79ae732c2ca8.gif)|![Immagine3](https://user-images.githubusercontent.com/98583912/199338834-6a7ad501-2fff-49b1-a1ef-9b6f8e286a82.gif)|![Immagine5](https://user-images.githubusercontent.com/98583912/199339627-2d31f51b-cf63-4847-ac46-04f8fb1e4f40.jpg)|
+|**MARCHI**|**Animali**|**Auto**|**Armi**|**Piante**|**Elettrico**|**Colore**|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
+|[US Sistema di ricerca elettronica dei marchi (TESS)](https://tmsearch.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk)|[Identificazione Uccelli](https://merlin.allaboutbirds.org/)|[CarNet](https://carnet.ai/)|[Enciclopedia delle armi](http://www.earmi.it/default.html)|[Pl@ntNet identify](https://identify.plantnet.org/it)|[World plugs - IEC](https://www.iec.ch/world-plugs)|[**Tineye.com - Multicolr**](https://labs.tineye.com/multicolr/)|
+|[UE - eSearch](https://euipo.europa.eu/eSearch/)|[Identify Dog Breeds Pro Android App](https://github.com/j05t/identify-dog-breeds-pro)||||[Sistema di ricerca elettronica dei marchi (TESS)](https://tmsearch.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk)||
+|[UE - TMview](https://www.tmdn.org/tmview/#/tmview)|||||||
+|![cosa-e-un-marchio-3](https://user-images.githubusercontent.com/98583912/206896278-dc0f5cf0-72c4-4bdc-94e7-7ff9310148ab.jpg)|![iStock-936761594-min-880x660](https://user-images.githubusercontent.com/98583912/205460396-ab4cf931-a7ca-40b5-8d16-9a8ba766e481.jpg)|![ricambi-auto-di-carrozzeria](https://user-images.githubusercontent.com/98583912/199337438-f141b7e1-91e3-4b99-972c-576787c368a3.jpg)|![Immagine1](https://user-images.githubusercontent.com/98583912/199338577-a015eeb0-104f-40ed-932c-79ae732c2ca8.gif)|![Immagine3](https://user-images.githubusercontent.com/98583912/199338834-6a7ad501-2fff-49b1-a1ef-9b6f8e286a82.gif)|![Immagine5](https://user-images.githubusercontent.com/98583912/199339627-2d31f51b-cf63-4847-ac46-04f8fb1e4f40.jpg)|![Immagine1](https://user-images.githubusercontent.com/98583912/214908014-b31b4f2c-331a-4897-a9c6-79ea5ea5b0a7.jpg)|
 
 
 # 4 - Analisi Forense
