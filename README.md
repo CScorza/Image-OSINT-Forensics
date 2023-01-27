@@ -38,8 +38,8 @@ incentrata su dati biometrici per identificare o verificare l'identità di una p
 |[**Search4faces**](https://search4faces.com/)|[**VK.WATCH**](https://vk.watch/)|
 
 ## Face Recognition
-|[**Betaface**](https://betaface.com/demo_old.html)|[**Amazon Rekognition**](https://eu-central-1.console.aws.amazon.com/rekognition/home?region=eu-central-1#/)|[**Diffchecker  Compare Images**](https://www.diffchecker.com/image-diff/)|[**Face Comparing**](https://www.faceplusplus.com/face-comparing/)|
-| :--- | :--- | :--- | :--- |  
+|[**Betaface**](https://betaface.com/demo_old.html)|[**Amazon Rekognition**](https://eu-central-1.console.aws.amazon.com/rekognition/home?region=eu-central-1#/)|[**Diffchecker  Compare Images**](https://www.diffchecker.com/image-diff/)|[**Face Comparing**](https://www.faceplusplus.com/face-comparing/)|[**Face_Recognition**](https://github.com/ageitgey/face_recognition)|
+| :--- | :--- | :--- | :--- | :--- |    
 
 
 ### Linux e il Face Recognition
@@ -133,8 +133,18 @@ Protezione degli errori.
 |[**Photoshop**](https://www.adobe.com/it/creativecloud/photography.html?gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-ud2gBwdDHQy-paRgBI71tJcaAvkVEALw_wcB&mv=search&mv=search&sdid=LZ32SYVR&ef_id=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-u[d2gBwdDHQy-p[aRgBI71tJcaAvkVEALw_wcB:G:s&s_kwcid=AL!3085!3!340641313435!e!!g!!photoshop!1457478956!59242745680)|[**AmpedFive**](https://ampedsoftware.com/it/)|[**MOBILedit - Camera-Ballistics**](https://www.mobiledit.com/camera-ballistics)|
 | :--- | :--- | :--- |
 
-***GITHUB***
-- [**Face_Recognition**](https://github.com/ageitgey/face_recognition)
+**Linee Guida sull'Uso Forense dei software Photoshop e Gimp** 
+
+|**1**|**Acquisizione delle immagini: Utilizzare tecniche di acquisizione forensi per acquisire le immagini in modo da garantirne l'integrità e la validità come prove.**|
+| :--- | :--- |
+|**2**|**Documentazione: Documentare tutte le fasi del processo di analisi, inclusi i dettagli dell'acquisizione delle immagini, gli strumenti e le impostazioni utilizzati in Photoshop e tutte le modifiche apportate alle immagini**|
+|**3**|**Creazione di copie di lavoro: Creare una copia di lavoro delle immagini originali per evitare di modificare le immagini originali.**|
+|**4**|**Utilizzo di strumenti non distruttivi: Utilizzare strumenti non distruttivi, come i livelli e i regolatori di opacità, per modificare le immagini in modo da poter annullare o modificare le modifiche in seguito.**|
+|**5**|**Utilizzo di strumenti di analisi: Utilizzare gli strumenti di analisi di Photoshop, come la lente d'ingrandimento e la misura, per analizzare i dettagli delle immagini.**|
+|**6**|**Utilizzo di filtri: Utilizzare i filtri di Photoshop, come il filtro di contrasto e il filtro di nitidezza, per evidenziare particolari caratteristiche delle immagini.**|
+|**9**|**Modifica delle immagini: Utilizzare gli strumenti di Photoshop, come la gomma e la pennello, per modificare le immagini solo se strettamente necessario e documentando sempre le modifiche apportate.**|
+|**8**|**Salvataggio delle immagini: Salvare le immagini in un formato non modificabile, come TIFF o JPEG2000, per garantirne l'integrità.**|
+|**9**|**Conservazione delle immagini: Conservare le immagini originali e le copie di lavoro in modo**|
 
 ***QR Code / Barcode Analisi***
 
