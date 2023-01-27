@@ -38,14 +38,14 @@ incentrata su dati biometrici per identificare o verificare l'identità di una p
 |[**Search4faces**](https://search4faces.com/)|[**VK.WATCH**](https://vk.watch/)|
 
 ## Face Recognition
-|[**Betaface](https://betaface.com/demo_old.html)|[**Amazon Rekognition](https://eu-central-1.console.aws.amazon.com/rekognition/home?region=eu-central-1#/)|[**Diffchecker  Compare Images](https://www.diffchecker.com/image-diff/)|[**Face Comparing](https://www.faceplusplus.com/face-comparing/)|
+|[**Betaface**](https://betaface.com/demo_old.html)|[**Amazon Rekognition**](https://eu-central-1.console.aws.amazon.com/rekognition/home?region=eu-central-1#/)|[**Diffchecker  Compare Images**](https://www.diffchecker.com/image-diff/)|[**Face Comparing**](https://www.faceplusplus.com/face-comparing/)|
 | :--- | :--- | :--- | :--- |  
 
 
 ### Linux e il Face Recognition
 ![tsurugi-computer-vision-face-recognition-800x453](https://user-images.githubusercontent.com/98583912/191876985-ceb7162e-8e26-4ffd-82d1-dd37a62a761b.jpg)
-- [Dalchecco.it - Tsurugi - Computer Vision](https://www.dalchecco.it/tsurugi-linux-lab-2019-1-download/)
-   - [Iso Tsurugi](https://tsurugi-linux.org/downloads.php)
+- [**Dalchecco.it - Tsurugi - Computer Vision**](https://www.dalchecco.it/tsurugi-linux-lab-2019-1-download/)
+   - [**Iso Tsurugi**](https://tsurugi-linux.org/downloads.php)
 
 # 3 - Ricerca Oggetti
 |**MARCHI**|**Animali**|**Auto**|**Armi**|**Piante**|**Elettrico**|**Colore**|
