@@ -181,14 +181,15 @@ informazioni destinate a essere lette tramite un apposito lettore ottico o anche
 
 [**Photoshop**](https://www.adobe.com/it/products/photoshop/landpb.html?gclid=CjwKCAiArNOeBhAHEiwAze_nKEtIwDvUKF9pREMCl0TDpLmG4dyG1Y1Fikv-u6og8533nQr-rckv-RoCgYwQAvD_BwE&mv=search&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAiArNOeBhAHEiwAze_nKEtIwDvUKF9pREMCl0TDpLmG4dyG1Y1Fikv-u6og8533nQr-rckv-RoCgYwQAvD_BwE:G:s&s_kwcid=AL!3085!3!595517531759!e!!g!!photoshop!1457478956!59242745680#mini-plans-web-cta-photoshop-card)
 
-|**1**|**Stabilizzazione dell'immagine: è importante stabilizzare l'immagine prima di iniziare a prendere misure. Ciò può essere fatto utilizzando strumenti come "Allineamento automatico" o "Allineamento manuale" per allineare le immagini e correggere eventuali distorsioni.**|
+|**1**|**Apri l'immagine che desideri misurare in Photoshop.**|
 | :--- | :--- |
-|**2**|**Scelta dello strumento di misura: Photoshop offre diversi strumenti di misura, come "Misura", "Righello" e "Misura di area". Scegliere lo strumento più adatto in base alla natura della misura che si desidera effettuare.**|
-|**3**|**Impostazione della scala: è importante impostare la scala dell'immagine per assicurarsi che le misure siano esatte. Ciò può essere fatto utilizzando strumenti come "Scala" o "Righello" per impostare la scala in base a un oggetto di riferimento noto nell'immagine.**|
-|**4**|**Selezione dell'area di misura: selezionare l'area da misurare utilizzando gli strumenti di selezione di Photoshop, come "Selezione rapida" o "Selezione a mano libera". Assicurarsi di selezionare solo l'area di interesse per evitare di includere eventuali elementi non pertinenti nella misura.**|
-|**5**|**Prendere la misura: utilizzare lo strumento di misura selezionato per prendere la misura desiderata. Assicurarsi di seguire le istruzioni dello strumento per ottenere misure accurate.**|
-|**6**|**Annotazione: annotare le misure prese e le informazioni relative alla scala, all'immagine e alla selezione utilizzata per le misure. Questo può essere fatto utilizzando gli strumenti di annotazione di Photoshop, come "Testo" o "Nota".**|
-|**7**|**Salvare il lavoro: salvare il lavoro effettuato sull'immagine, inclusa la selezione e le annotazioni, in modo che possa essere facilmente riprodotto e verificato in futuro.**|
+|**2**|**Utilizzare lo strumento "Allineamento" per allineare l'immagine in modo che l'oggetto che si desidera misurare sia dritto e parallelo alla griglia. È possibile utilizzare lo strumento "Allineamento" per ruotare e spostare l'immagine in modo che sia perfettamente allineata.**|
+|**3**|**Utilizzare lo strumento "Zoom" per ingrandire l'immagine in modo da poter vedere i dettagli dell'oggetto che si desidera misurare.**|
+|**4**|**Utilizzare lo strumento "Misura" per misurare l'oggetto. Questo strumento è possibile trovarlo in "Windows" -> "Strumenti di misura" . È possibile utilizzare questo strumento per tracciare una linea sull'oggetto che si desidera misurare e visualizzare la lunghezza della linea in pixel.**|
+|**5**|**Utilizzare lo strumento "Rettangolo di selezione" per selezionare l'area dell'oggetto che si desidera misurare. Questo strumento permette di selezionare una porzione precisa dell'immagine e misurare solo quella zona.**|
+|**6**|**Utilizzare lo strumento "Scalpello" per tagliare e rimuovere eventuali parti non necessarie dell'immagine.**|
+|**7**|**Utilizzare lo strumento "Livello di regolazione" per regolare la luminosità e il contrasto dell'immagine in modo che l'oggetto che si desidera misurare sia ben visibile.**|
+|**8**|**Utilizzare lo strumento "Scala" per misurare la dimensione reale dell'oggetto. È possibile utilizzare questo strumento per misurare la lunghezza di un oggetto noto nell'immagine e quindi utilizzare questa informazione per calcolare le dimensioni dell'oggetto che si desidera misurare.**|
 
 
 ### Calcolo dell'Ora delle immagini
