@@ -158,6 +158,39 @@ informazioni destinate a essere lette tramite un apposito lettore ottico o anche
 |[**ASPOSE - Barcode Reader Online**](https://products.aspose.app/barcode/recognize)|[**Online Barcode Reader**](https://www.onlinebarcodereader.com/)|[**Free Online Barcode Reader**](https://online-barcode-reader.inliteresearch.com/)|
 | :--- | :--- | :--- |
 
+### Come prendere le misure degli oggetti all'interno delle Immagini 
+
+![ImageMeter](https://user-images.githubusercontent.com/98583912/215259151-8bf75b99-1928-4421-bb33-bbec78aa5098.gif)
+
+[**ImageMeter - Android**](https://imagemeter.com/)
+
+|**1**|**Aprire l'app e selezionare la fotocamera per acquisire un'immagine o selezionare un'immagine esistente dalla libreria del dispositivo.**|
+| :--- | :--- |
+|**2**|**Utilizzare gli strumenti di misurazione forniti dall'app, come la linea, la distanza, l'area e l'angolo, per misurare le caratteristiche desiderate dell'immagine.**|
+|**3**|**Utilizzare la funzione di overlay per sovrapporre le misure sull'immagine originale per una maggiore chiarezza.**|
+|**4**|**Utilizzare la funzione di annotazione per aggiungere note e descrizioni alle misure.**|
+|**5**|**Utilizzare la funzione di esportazione per esportare le misure in un file di testo o in un'immagine con le misure sovrapposte.**|
+|**6**|**Conservare le immagini e le misure in una posizione sicura e documentare il processo di misurazione per garantirne la validità come prove in un contesto legale.**|
+|**7**|**Utilizzare la funzione di backup per salvare le misure in un cloud e garantirne la disponibilità in futuro**|
+|**8**|**Utilizzare la funzione di condivisione per condividere le misure con altri utenti, come colleghi o esperti di analisi immagini, per ottenere un feedback o una seconda opinione.**|
+|**9**|**Rispettare sempre la privacy delle persone, al fine di evitare eventuali violazioni del GDPR e proteggere i dati personali.**|
+
+![Immagine5](https://user-images.githubusercontent.com/98583912/215259531-0d7fd912-0dcf-49fa-8d05-97e1b21edc74.gif)
+
+![Photoshop](https://user-images.githubusercontent.com/98583912/215259846-cd2a344e-889c-4d2f-9545-8acecee1f80f.gif)
+
+[**Photoshop**](https://www.adobe.com/it/products/photoshop/landpb.html?gclid=CjwKCAiArNOeBhAHEiwAze_nKEtIwDvUKF9pREMCl0TDpLmG4dyG1Y1Fikv-u6og8533nQr-rckv-RoCgYwQAvD_BwE&mv=search&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAiArNOeBhAHEiwAze_nKEtIwDvUKF9pREMCl0TDpLmG4dyG1Y1Fikv-u6og8533nQr-rckv-RoCgYwQAvD_BwE:G:s&s_kwcid=AL!3085!3!595517531759!e!!g!!photoshop!1457478956!59242745680#mini-plans-web-cta-photoshop-card)
+
+|**1**|**Stabilizzazione dell'immagine: è importante stabilizzare l'immagine prima di iniziare a prendere misure. Ciò può essere fatto utilizzando strumenti come "Allineamento automatico" o "Allineamento manuale" per allineare le immagini e correggere eventuali distorsioni.**|
+| :--- | :--- |
+|**2**|**Scelta dello strumento di misura: Photoshop offre diversi strumenti di misura, come "Misura", "Righello" e "Misura di area". Scegliere lo strumento più adatto in base alla natura della misura che si desidera effettuare.**|
+|**3**|**Impostazione della scala: è importante impostare la scala dell'immagine per assicurarsi che le misure siano esatte. Ciò può essere fatto utilizzando strumenti come "Scala" o "Righello" per impostare la scala in base a un oggetto di riferimento noto nell'immagine.**|
+|**4**|**Selezione dell'area di misura: selezionare l'area da misurare utilizzando gli strumenti di selezione di Photoshop, come "Selezione rapida" o "Selezione a mano libera". Assicurarsi di selezionare solo l'area di interesse per evitare di includere eventuali elementi non pertinenti nella misura.**|
+|**5**|**Prendere la misura: utilizzare lo strumento di misura selezionato per prendere la misura desiderata. Assicurarsi di seguire le istruzioni dello strumento per ottenere misure accurate.**|
+|**6**|**Annotazione: annotare le misure prese e le informazioni relative alla scala, all'immagine e alla selezione utilizzata per le misure. Questo può essere fatto utilizzando gli strumenti di annotazione di Photoshop, come "Testo" o "Nota".**|
+|**7**|**Salvare il lavoro: salvare il lavoro effettuato sull'immagine, inclusa la selezione e le annotazioni, in modo che possa essere facilmente riprodotto e verificato in futuro.**|
+
+
 ### Calcolo dell'Ora delle immagini
 ![a748c37f7673d0bfe02a4db62720f316--cottage-patio-farm-cottage**](https://user-images.githubusercontent.com/98583912/194773925-fef825bb-76b9-43e8-9d2a-2d25cad5e7f1.jpg)
 
