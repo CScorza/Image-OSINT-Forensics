@@ -212,7 +212,7 @@ informazioni destinate a essere lette tramite un apposito lettore ottico o anche
 # 7 - Fonti e Studi utili 
 
 ***Lavori propri***
-- [**Linkedin - Forensics Imagery**](https://www.linkedin.com/posts/scorzaosint01_forensics-imaginery-manucar-activity-6944889688990089216-aD2f?utm_source=share&utm_medium=member_desktop)
+- [**Linkedin - Forensics Imagery**](https://www.linkedin.com/posts/cscorza_forensics-imaginery-manucar-activity-6944889688990089216-ZxR-?utm_source=share&utm_medium=member_desktop)
 - [**Linkedin - IL SOLE NEMICO DELLE FOTO FAKE**](https://www.linkedin.com/posts/scorzaosint01_analisi-osint-image-il-sole-nemico-delle-activity-6992778053760266240-1UGg?utm_source=share&utm_medium=member_desktop)
 
 ***Altre pubblicazioni***
