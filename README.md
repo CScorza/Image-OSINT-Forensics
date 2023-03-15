@@ -56,7 +56,6 @@ incentrata su dati biometrici per identificare o verificare l'identità di una p
 |[**UE - TMview**](https://www.tmdn.org/tmview/#/tmview)|||||||
 |![cosa-e-un-marchio-3**](https://user-images.githubusercontent.com/98583912/206896278-dc0f5cf0-72c4-4bdc-94e7-7ff9310148ab.jpg)|![iStock-936761594-min-880x660**](https://user-images.githubusercontent.com/98583912/205460396-ab4cf931-a7ca-40b5-8d16-9a8ba766e481.jpg)|![ricambi-auto-di-carrozzeria**](https://user-images.githubusercontent.com/98583912/199337438-f141b7e1-91e3-4b99-972c-576787c368a3.jpg)|![Immagine1**](https://user-images.githubusercontent.com/98583912/199338577-a015eeb0-104f-40ed-932c-79ae732c2ca8.gif)|![Immagine3**](https://user-images.githubusercontent.com/98583912/199338834-6a7ad501-2fff-49b1-a1ef-9b6f8e286a82.gif)|![Immagine5**](https://user-images.githubusercontent.com/98583912/199339627-2d31f51b-cf63-4847-ac46-04f8fb1e4f40.jpg)|![Immagine1**](https://user-images.githubusercontent.com/98583912/214908014-b31b4f2c-331a-4897-a9c6-79ea5ea5b0a7.jpg)|
 
-
 # 4 - Analisi Forense
 ## Metadati e Foto Fake
 ![2022-09-23 03_03_49-4 Free Fake Image Detector - Analyze Photoshopped Photos**](https://user-images.githubusercontent.com/98583912/191875696-97fa0dcc-3f66-4af9-be43-3a65dc4096ff.jpg)
@@ -69,6 +68,9 @@ incentrata su dati biometrici per identificare o verificare l'identità di una p
 ### Ricerca seriale Camera dalle Foto
 |[**Camera Trace**](http://www.cameratrace.com/trace)|[**Stolen Camera Finder**](https://www.stolencamerafinder.com/)|
 | :--- | :--- |
+
+![serno-DSC_6437-1](https://user-images.githubusercontent.com/98583912/225334192-5bc116b0-a45d-4f9c-8012-c81764631e01.jpg)
+
 
 ## Calcolo del Hash
 ![QAApO](https://user-images.githubusercontent.com/98583912/194880806-7c8b9a6c-c9fb-4df2-9904-172bbfa74a04.png)
