@@ -98,6 +98,20 @@ Protezione degli errori.
 ### Software Gratis
 ![photome-8686-6](https://user-images.githubusercontent.com/98583912/191875217-598f19b6-f93c-4a1a-ae56-4cc92aa77d80.jpg)
 
+***Software***
+
+||**Grafici**|**Analisi dei Metadati**|
+| :--- | :--- | :--- |
+|**Free**|[**GIMP - GNU IMAGE MANIPULATION PROGRAM**](https://www.gimp.org/)|[**JPEGsnoop**](https://jpegsnoop.it.uptodown.com/windows)|
+|**Free**|[**ImageJ**](https://imagej.net/software/fiji/downloads)|[**Media Info**](https://mediaarea.net/it/MediaInfo)|
+|**Free**||[**PhotoMe**](https://www.photome.de/home_en.html)|
+|**Free**||[**Rawtherapee**](https://rawtherapee.com/)
+|**Pay**|[**Photoshop**](https://www.adobe.com/it/creativecloud/photography.html?gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-ud2gBwdDHQy-paRgBI71tJcaAvkVEALw_wcB&mv=search&mv=search&sdid=LZ32SYVR&ef_id=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-u[d2gBwdDHQy-p[aRgBI71tJcaAvkVEALw_wcB:G:s&s_kwcid=AL!3085!3!340641313435!e!!g!!photoshop!1457478956!59242745680)|[**Photoshop Lightroom**](https://www.adobe.com/it/products/photoshop-lightroom.html?gclid=Cj0KCQjw2cWgBhDYARIsALggUhpwxvd-tqPvxgdQPpNuSVNdqr1dP3CVXaJ5t0ds5LdS0HtoVSPxoZQaAlMgEALw_wcB&mv=search&mv=search&sdid=L7NVTQ8Y&ef_id=Cj0KCQjw2cWgBhDYARIsALggUhpwxvd-tqPvxgdQPpNuSVNdqr1dP3CVXaJ5t0ds5LdS0HtoVSPxoZQaAlMgEALw_wcB:G:s&s_kwcid=AL!3085!3!441910900964!e!!g!!lightroom!1457479184!62185526328)|
+|**Pay**|[**AmpedFive**](https://ampedsoftware.com/it/)||
+|**Pay**|[**MOBILedit - Camera-Ballistics**](https://www.mobiledit.com/camera-ballistics)||
+
+![clip_image0025_thumb (1)](https://user-images.githubusercontent.com/98583912/191876099-16fb7e99-f888-4cd4-b306-cca7a776b03c.jpg)
+
 ***Online***
 |[**MyHeritage**](https://www.myheritage.nl/photo-enhancer)|***Migliora le tue foto***|
 | :--- | :--- |
@@ -123,17 +137,6 @@ Protezione degli errori.
 |[**MKLab-ITI - image-forensics**](https://github.com/MKLab-ITI/image-forensics)||
 |framework integrato per l'analisi forense delle immagini||
 
-***Software***
-|[**GIMP - GNU IMAGE MANIPULATION PROGRAM**](https://www.gimp.org/)|[**ImageJ**](https://imagej.net/software/fiji/downloads)|[**JPEGsnoop**](https://jpegsnoop.it.uptodown.com/windows)|[**Media Info**](https://mediaarea.net/it/MediaInfo)|[**PhotoMe**](https://www.photome.de/home_en.html)|
-| :--- | :--- | :--- | :--- | :--- |
-
-
-### Pagamento
-![clip_image0025_thumb (1)](https://user-images.githubusercontent.com/98583912/191876099-16fb7e99-f888-4cd4-b306-cca7a776b03c.jpg)
-
-|[**Photoshop**](https://www.adobe.com/it/creativecloud/photography.html?gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-ud2gBwdDHQy-paRgBI71tJcaAvkVEALw_wcB&mv=search&mv=search&sdid=LZ32SYVR&ef_id=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-u[d2gBwdDHQy-p[aRgBI71tJcaAvkVEALw_wcB:G:s&s_kwcid=AL!3085!3!340641313435!e!!g!!photoshop!1457478956!59242745680)|[**AmpedFive**](https://ampedsoftware.com/it/)|[**MOBILedit - Camera-Ballistics**](https://www.mobiledit.com/camera-ballistics)|
-| :--- | :--- | :--- |
-
 **Linee Guida sull'Uso Forense dei software Photoshop e Gimp** 
 
 |**1**|**Acquisizione delle immagini: Utilizzare tecniche di acquisizione forensi per acquisire le immagini in modo da garantirne l'integrità e la validità come prove.**|
@@ -143,7 +146,7 @@ Protezione degli errori.
 |**4**|**Utilizzo di strumenti non distruttivi: Utilizzare strumenti non distruttivi, come i livelli e i regolatori di opacità, per modificare le immagini in modo da poter annullare o modificare le modifiche in seguito.**|
 |**5**|**Utilizzo di strumenti di analisi: Utilizzare gli strumenti di analisi di Photoshop, come la lente d'ingrandimento e la misura, per analizzare i dettagli delle immagini.**|
 |**6**|**Utilizzo di filtri: Utilizzare i filtri di Photoshop, come il filtro di contrasto e il filtro di nitidezza, per evidenziare particolari caratteristiche delle immagini.**|
-|**9**|**Modifica delle immagini: Utilizzare gli strumenti di Photoshop, come la gomma e la pennello, per modificare le immagini solo se strettamente necessario e documentando sempre le modifiche apportate.**|
+|**9**|**Modifica delle immagini: Utilizzare gli strumenti di Photoshop, come la gomma e la pennello, per modificare le immagini olo se strettamente necessario e documentando sempre le modifiche apportate.**|
 |**8**|**Salvataggio delle immagini: Salvare le immagini in un formato non modificabile, come TIFF o JPEG2000, per garantirne l'integrità.**|
 |**9**|**Conservazione delle immagini: Conservare le immagini originali e le copie di lavoro in modo**|
 
