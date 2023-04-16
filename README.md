@@ -1,5 +1,7 @@
 ![Titolo](https://user-images.githubusercontent.com/98583912/210838536-9ac169ad-5809-4c3f-bd0a-03e908aa0af5.gif)
 
+[![Telegram](https://img.shields.io/badge/Telegram-CScorza%20%22Indagini%20Telematiche%22-informational)](https://t.me/+kP_uYlc6-345Njc8)
+
 # Indice
 |[**1 Ricerca per immagini**](https://github.com/CScorza/Image-OSINT-Forensics#1---ricerca-per-immagini)|
 | :--- 
