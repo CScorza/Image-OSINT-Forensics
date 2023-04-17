@@ -141,6 +141,11 @@ Protezione degli errori.
 |[**MKLab-ITI - image-forensics**](https://github.com/MKLab-ITI/image-forensics)||
 |framework integrato per l'analisi forense delle immagini||
 
+***IA e L'IMAGE FORENSICS**
+ 
+|[**Img Up Scaler**](https://imgupscaler.com/)|**Ingrandimento dimensioni immagini**|
+| :--- | :--- | 
+
 **Linee Guida sull'Uso Forense dei software Photoshop e Gimp** 
 
 |**1**|**Acquisizione delle immagini: Utilizzare tecniche di acquisizione forensi per acquisire le immagini in modo da garantirne l'integrità e la validità come prove.**|
