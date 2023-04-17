@@ -1,16 +1,18 @@
 ![Titolo](https://user-images.githubusercontent.com/98583912/210838536-9ac169ad-5809-4c3f-bd0a-03e908aa0af5.gif)
 
 [![Telegram](https://img.shields.io/badge/Telegram-CScorza%20%22Indagini%20Telematiche%22-informational)](https://t.me/+kP_uYlc6-345Njc8)
+![**Manuali CScorza**](https://img.shields.io/badge/CScorza-Manuali-green)
 
-# Indice
-|[**1 Ricerca per immagini**](https://github.com/CScorza/Image-OSINT-Forensics#1---ricerca-per-immagini)|
-| :--- 
-|[**2 Ricerca Volti**](https://github.com/CScorza/Image-OSINT-Forensics#2---ricerca-volti)|
-|[**3 Ricerca Oggetti**](https://github.com/CScorza/Image-OSINT-Forensics#3---ricerca-oggetti)|
-|[**4 Analisi Forense**](https://github.com/CScorza/Image-OSINT-Forensics#4--analisi-forense)|
-|[**5 Strumenti Desktop Forensi per l'Analisi, Restauro delle Immagini e QR/Barcode**](https://github.com/CScorza/Image-OSINT-Forensics#5---strumenti-desktop-forensi-per-lanalisi-restauro-delle-immagini-e-qrbarcode)|
-|[**6 Image Forensics - Applicazioni per Smartphone**](https://github.com/CScorza/Image-OSINT-Forensics#6---image-forensics---applicazioni-per-smartphone)|
-|[**7 Fonti e Studi utili**](https://github.com/CScorza/Image-OSINT-Forensics#7---fonti-e-studi-utili)|
+**INDICE**
+
+|**1**|[**Ricerca per immagini**](https://github.com/CScorza/Image-OSINT-Forensics#1---ricerca-per-immagini)|
+| :--- | :--- |
+|**2**|[**Ricerca Volti**](https://github.com/CScorza/Image-OSINT-Forensics#2---ricerca-volti)|
+|**3**|[**Ricerca Oggetti**](https://github.com/CScorza/Image-OSINT-Forensics#3---ricerca-oggetti)|
+|**4**|[**Analisi Forense**](https://github.com/CScorza/Image-OSINT-Forensics#4--analisi-forense)|
+|**5**|[**Strumenti Desktop Forensi per l'Analisi, Restauro delle Immagini e QR/Barcode**](https://github.com/CScorza/Image-OSINT-Forensics#5---strumenti-desktop-forensi-per-lanalisi-restauro-delle-immagini-e-qrbarcode)|
+|**6**|[**Image Forensics - Applicazioni per Smartphone**](https://github.com/CScorza/Image-OSINT-Forensics#6---image-forensics---applicazioni-per-smartphone)|
+|**7**|[**Fonti e Studi utili**](https://github.com/CScorza/Image-OSINT-Forensics#7---fonti-e-studi-utili)|
 
 ![Reverse-Image-Search-Engines png cf](https://user-images.githubusercontent.com/98583912/191872805-dafa7aa6-63dc-4542-a3ed-695ef1b64a0e.jpg)
 
@@ -19,7 +21,7 @@
 | :--- | :--- | :--- | :--- | 
 |[**Baidu**](http://image.baidu.com/)|[**OsintCombine - Reverse Image Analyzer**](https://www.osintcombine.com/reverse-image-analyzer)|[**Flickr**](https://secure.flickr.com/)|[**ImageIdentify**](https://www.imageidentify.com/)|
 |[**Karmadecay - Reverse image search of Reddit.com**](http://karmadecay.com/)|[**TinEye - Reverse Image Search**](https://tineye.com/)|[**Yahoo - Images Search**](https://images.search.yahoo.com/)|[**Geolocation Estimation - Image**](https://labs.tib.eu/geoestimation/)|
-|[**Reverse Image Search**](https://smallseotools.com/reverse-image-search/)|[**berify**](https://berify.com/)|[**DupliChecker - Reverse Image Search**](https://www.duplichecker.com/reverse-image-search.php)|[]()|
+|[**Reverse Image Search**](https://smallseotools.com/reverse-image-search/)|[**Berify**](https://berify.com/)|[**DupliChecker - Reverse Image Search**](https://www.duplichecker.com/reverse-image-search.php)|[]()|
 
 ## Estensioni Ricerca Immagini
 - [GitHub - EstensioniChromeOSINT ricerca immagini](https://github.com/CScorza/EstensioniChromeOSINT#ricerca-immagini)
