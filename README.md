@@ -141,7 +141,7 @@ Protezione degli errori.
 |[**MKLab-ITI - image-forensics**](https://github.com/MKLab-ITI/image-forensics)||
 |framework integrato per l'analisi forense delle immagini||
 
-***IA e L'IMAGE FORENSICS**
+**IA e L'IMAGE FORENSICS**
  
 |[**Img Up Scaler**](https://imgupscaler.com/)|**Ingrandimento dimensioni immagini**|
 | :--- | :--- | 
