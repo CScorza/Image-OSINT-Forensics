@@ -132,6 +132,17 @@ Protezione degli errori.
 |[**Upscaler**](https://flathub.org/apps/details/io.gitlab.theevilskeleton.Upscaler)|Strumento per Linux che permette di migliorare la risoluzione|
 |[**Ailab**](https://ailab.wondershare.com/tools/aging-filter.html)|Filtro per il cambio d'età della foto|
 
+***IA - Image***
+
+![QAApO](https://www.ilsoftware.it/app/uploads/2023/05/Adobe-Firefly-Photoshop-IA.jpg)
+| :--- |
+[**LEDITS**](https://huggingface.co/spaces/editing-images/ledits)
+[**UNCROP**](https://clipdrop.co/uncrop)
+[**Microsoft Designer**](https://designer.microsoft.com/)
+[**Stable Diffusion Inpainting**](https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting)
+[**Adobe Firefly AI**](https://firefly.adobe.com/generate/inpaint)
+[**DragGAN**](https://huggingface.co/spaces/radames/DragGan)
+
 ***GITHUB - OPEN SOURCE***
 |**Strumenti Immagini**|**AntiPixel**|
 | :--- | :--- |   
