@@ -221,9 +221,9 @@ informazioni destinate a essere lette tramite un apposito lettore ottico o anche
 ### Calcolo dell'Ora delle immagini
 ![a748c37f7673d0bfe02a4db62720f316--cottage-patio-farm-cottage**](https://user-images.githubusercontent.com/98583912/194773925-fef825bb-76b9-43e8-9d2a-2d25cad5e7f1.jpg)
 
-|[**Shadow Calculator**](http://shadowcalculator.eu)|[**SunCalc**](https://www.suncalc.org/)|[**Timebie**](http://www.timebie.com/index.php)|
-| :--- | :--- | :--- | 
-|[**Sunearth Tools**](https://www.sunearthtools.com/)|[**Time and Date**](https://www.timeanddate.com/)|[**Sun Calc**](https://www.suncalc.org/)|
+|[**Shadow Calculator**](http://shadowcalculator.eu)|[**SunCalc**](https://www.suncalc.org/)|[**Timebie**](http://www.timebie.com/index.php)|[**ShadeMap**](https://shademap.app/)|
+| :--- | :--- | :--- | :--- | 
+|[**Sunearth Tools**](https://www.sunearthtools.com/)|[**Time and Date**](https://www.timeanddate.com/)|[**Sun Calc**](https://www.suncalc.org/)||
 
 
 # 6 - Image Forensics - Applicazioni per Smartphone
