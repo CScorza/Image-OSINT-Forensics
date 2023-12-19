@@ -67,7 +67,7 @@ incentrata su dati biometrici per identificare o verificare l'identità di una p
 |[**Imageedited - Is Your Image Edited?**](http://imageedited.com/)|[**FotoForensics**](https://fotoforensics.com/)|[**Metadata2go**](https://www.metadata2go.com/)|[**Getghiro**](http://www.getghiro.org/)|
 | :--- | :---: | :--- | :--- | 
 |[**Adversarial.io – Fighting mass image recognition**](https://adversarial.io/)|[**Exif Jpeg header manipulation tool**](https://www.sentex.ca/~mwandel/jhead/)|[**Fake news debunker by InVID & WeVerify**](https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe?hl=it)|[**GitHub - EstensioniChromeOSINT - Metadati**](https://github.com/CScorza/EstensioniChromeOSINT#metadati)|
-|[**ExtractMetadata.com**](https://www.extractmetadata.com/)||||
+|[**ExtractMetadata.com**](https://www.extractmetadata.com/)|[**Hturan - Exploring Exif**](https://hturan.com/writing/exploring-exif)|||
 
 ### Ricerca seriale Camera dalle Foto
 |[**Camera Trace**](http://www.cameratrace.com/trace)|[**Stolen Camera Finder**](https://www.stolencamerafinder.com/)|
