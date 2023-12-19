@@ -67,7 +67,7 @@ incentrata su dati biometrici per identificare o verificare l'identità di una p
 |[**Imageedited - Is Your Image Edited?**](http://imageedited.com/)|[**FotoForensics**](https://fotoforensics.com/)|[**Metadata2go**](https://www.metadata2go.com/)|[**Getghiro**](http://www.getghiro.org/)|
 | :--- | :---: | :--- | :--- | 
 |[**Adversarial.io – Fighting mass image recognition**](https://adversarial.io/)|[**Exif Jpeg header manipulation tool**](https://www.sentex.ca/~mwandel/jhead/)|[**Fake news debunker by InVID & WeVerify**](https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe?hl=it)|[**GitHub - EstensioniChromeOSINT - Metadati**](https://github.com/CScorza/EstensioniChromeOSINT#metadati)|
-|[**ExtractMetadata.com**](https://www.extractmetadata.com/)|[**Hturan - Exploring Exif**](https://hturan.com/writing/exploring-exif)|||
+|[**ExtractMetadata.com**](https://www.extractmetadata.com/)||||
 
 ### Ricerca seriale Camera dalle Foto
 |[**Camera Trace**](http://www.cameratrace.com/trace)|[**Stolen Camera Finder**](https://www.stolencamerafinder.com/)|
@@ -113,7 +113,7 @@ Protezione degli errori.
 |**Free**||[**PhotoMe**](https://www.photome.de/home_en.html)|
 |**Free**||[**Rawtherapee**](https://rawtherapee.com/)
 |**Pay**|[**Photoshop**](https://www.adobe.com/it/creativecloud/photography.html?gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-ud2gBwdDHQy-paRgBI71tJcaAvkVEALw_wcB&mv=search&mv=search&sdid=LZ32SYVR&ef_id=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-u[d2gBwdDHQy-p[aRgBI71tJcaAvkVEALw_wcB:G:s&s_kwcid=AL!3085!3!340641313435!e!!g!!photoshop!1457478956!59242745680)|[**Photoshop Lightroom**](https://www.adobe.com/it/products/photoshop-lightroom.html?gclid=Cj0KCQjw2cWgBhDYARIsALggUhpwxvd-tqPvxgdQPpNuSVNdqr1dP3CVXaJ5t0ds5LdS0HtoVSPxoZQaAlMgEALw_wcB&mv=search&mv=search&sdid=L7NVTQ8Y&ef_id=Cj0KCQjw2cWgBhDYARIsALggUhpwxvd-tqPvxgdQPpNuSVNdqr1dP3CVXaJ5t0ds5LdS0HtoVSPxoZQaAlMgEALw_wcB:G:s&s_kwcid=AL!3085!3!441910900964!e!!g!!lightroom!1457479184!62185526328)|
-|**Pay**|[**AmpedFive**](https://ampedsoftware.com/it/)||
+|**Pay**|[**AmpedFive**](https://ampedsoftware.com/it/)|[**Hturan - Exploring Exif**](https://hturan.com/writing/exploring-exif)|
 |**Pay**|[**MOBILedit - Camera-Ballistics**](https://www.mobiledit.com/camera-ballistics)||
 
 ![clip_image0025_thumb (1)](https://user-images.githubusercontent.com/98583912/191876099-16fb7e99-f888-4cd4-b306-cca7a776b03c.jpg)
