@@ -136,12 +136,13 @@ Protezione degli errori.
 
 ![QAApO](https://www.ilsoftware.it/app/uploads/2023/05/Adobe-Firefly-Photoshop-IA.jpg)
 | :--- |
-[**LEDITS**](https://huggingface.co/spaces/editing-images/ledits)
-[**UNCROP**](https://clipdrop.co/uncrop)
-[**Microsoft Designer**](https://designer.microsoft.com/)
-[**Stable Diffusion Inpainting**](https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting)
-[**Adobe Firefly AI**](https://firefly.adobe.com/generate/inpaint)
-[**DragGAN**](https://huggingface.co/spaces/radames/DragGan)
+|[**LEDITS**](https://huggingface.co/spaces/editing-images/ledits)|
+|[**UNCROP**](https://clipdrop.co/uncrop)|
+|[**Microsoft Designer**](https://designer.microsoft.com/)|
+|[**Stable Diffusion Inpainting**](https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting)|
+|[**Adobe Firefly AI**](https://firefly.adobe.com/generate/inpaint)|
+|[**DragGAN**](https://huggingface.co/spaces/radames/DragGan)|
+|[**Smartmine**](https://www.smartmine.net/)|
 
 ***GITHUB - OPEN SOURCE***
 |**Strumenti Immagini**|**AntiPixel**|
