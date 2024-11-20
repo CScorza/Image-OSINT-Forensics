@@ -45,7 +45,7 @@ incentrata su dati biometrici per identificare o verificare l'identità di una p
 
 ## Face Recognition
 |[**Betaface**](https://betaface.com/demo_old.html)|[**Amazon Rekognition**](https://eu-central-1.console.aws.amazon.com/rekognition/home?region=eu-central-1#/)|[**Diffchecker  Compare Images**](https://www.diffchecker.com/image-diff/)|[**Face Comparing**](https://www.faceplusplus.com/face-comparing/)|[**Face_Recognition**](https://github.com/ageitgey/face_recognition)|[**Face Detection and Comparison**](https://6mzld2.csb.app/)|
-| :--- | :--- | :--- | :--- | :--- |    
+| :--- | :--- | :--- | :--- | :--- | :--- |    
 
 
 ### Linux e il Face Recognition
